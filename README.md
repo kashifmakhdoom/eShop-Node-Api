@@ -7,11 +7,11 @@
 ## Configure Environment Variables
 - Create .env.local file at the project root and set environment variables as follows;
 
-  PORT = 3000
-  API_BASE_URL = /api/v1
-  NODE_ENV = development
-  LOCAL_MONGODB_URI = {MONGODB_URI}
-  SECRET_KEY = {YOUR_SECRET}
+  - PORT = 3000
+  - API_BASE_URL = /api/v1
+  - NODE_ENV = development
+  - LOCAL_MONGODB_URI = {MONGODB_URI}
+  - SECRET_KEY = {YOUR_SECRET}
 
 ## Run the Project
 - At the terminal run 'npm start' or 'yarn start'
